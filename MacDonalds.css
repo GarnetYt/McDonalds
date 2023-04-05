@@ -1,0 +1,344 @@
+.Header{
+    width: 100%;
+    height: 150px;
+    background: white;
+ 
+    outline: 5px solid hsl(0, 0%, 95%);
+  
+}
+.Logo{
+width: 123px;
+    margin-left: 98px;
+    margin-top: 16px;
+    cursor: pointer;
+}
+body{
+    margin: 0;
+}
+.TitleMain{
+    float: right;
+    width: 79%;
+    height: 150px;
+    background: white;
+  
+}
+.Title1{
+    float: right;
+    width: 100%;
+    height: 55%;
+    background: white;
+}
+.TitleLine1{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+   color: black;
+   float: left;
+   margin-left: 10px;
+   margin-top: 30px; 
+   cursor: pointer;
+}
+.TitleLine2{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    float: left;
+    margin-left: 22px;
+    margin-top: 34px;
+    cursor: pointer;
+    font-size: small;
+}
+.TitleLine3{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    float: left;
+    margin-left: 40px;
+    margin-top: 30px; 
+    cursor: pointer;
+}
+.SearcImage{
+    width: 15px;
+    float: left;
+    margin-left: 220px;
+    margin-top: 35px
+  
+}
+.search{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    float: left;
+    margin-left: 5px;
+    margin-top: 30px; 
+    cursor: pointer;
+}
+.LocationImage{
+    width: 15px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 33px
+
+}
+.Location{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    float: left;
+    margin-left: 5px;
+    margin-top: 30px;
+    cursor: pointer; 
+}
+.Order{
+    border: 0ch;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    background-color: #ffbc0d;
+    padding: 8px 25px;
+    border-radius: 5px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px; 
+    cursor: pointer;
+}
+.Title2{
+    float: left;
+    width: 100%;
+    height: 45%;
+}
+.TitleLine4{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    float: left;
+    margin-left: 10px;
+    margin-top: 15px; 
+    
+    cursor: pointer;
+}
+.TitleLine5{
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    float: left;
+    margin-left: 20px;
+    margin-top: 15px; 
+    
+    cursor: pointer;  
+}
+.TitleLine6{
+    color: black;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+
+}
+.TitleLine7{
+    color: black;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+
+}
+.TitleLine8{
+    color: black;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+
+}
+.TitleLine9{
+    color: black;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-family:  Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+
+}
+.TitleLine10{
+    color: black;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+
+}
+.Paragraph1{
+ width: 100%;
+ height: 500px;
+ background: white;
+}
+.Image1{
+  width: 65%;
+  height: 500px;
+  float: left;
+}
+.imageOne{
+    width: 80%;
+    margin-top: 95px;
+    margin-left: 136px;
+
+}
+.Text1{
+    width: 35%;
+    height: 500px;
+    float: left;
+}
+.TextOne{
+    margin-top: 105px;
+    float: left;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+}
+.TextOne1{
+    margin-top: -5px;
+    float: left;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;;
+}
+.TextOne2{
+    margin-top: 300px;
+   font-size: smaller;
+}
+.OrderOne{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    background-color: #ffbc0d;
+    padding: 10px 25px;
+    border-radius: 5px;
+    float: left;
+    font-size: medium;
+    margin-top: 28px;
+    cursor: pointer;
+    border: #ffbc0d;
+}
+.Image2{
+    width: 65%;
+    height: 500px;
+}
+.TextTwo22{
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    height: 500px;
+}
+.Paragraph2{
+    display: flex;
+    background: white;
+}
+.TextTwo2{
+    font-size: x-small;
+}
+.OrderTwo{
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: black;
+    background-color: #ffbc0d;
+    border-radius: 5px;
+    font-size: medium;
+    margin-top: 30px;
+    cursor: pointer;
+    border: #ffbc0d;
+    padding: 10px 20px;
+    width: 300px;
+}
+.Paragraph3{
+    display: flex;
+    background: white;
+}
+.Paragraph4{
+    display: flex;
+    background: white;
+}
+.Paragraph5{
+    display: flex;
+    background: white;
+}
+.Paragraph6{
+    display: flex;
+    background: white;
+}
+.FooterTags{
+    display: flex;
+
+}
+.Footer1{
+    flex: 1;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    list-style: none;
+    text-align: left;
+    margin-left: 122px;
+    line-height: 30px;
+}
+.Footer2{
+    flex: 1;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    list-style: none;
+    text-align: left;
+    line-height: 30px;
+}
+.Footer3{
+    flex: 1;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+line-height: 30px;   
+    list-style: none;
+    text-align: left;
+}
+.Footer4{
+    flex: 1;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    list-style: none;
+    text-align: left;   
+    line-height: 30px;
+}
+.Social{
+    padding-bottom: 30PX;
+    display: flex;
+    margin-top: 50px;
+    border-bottom: black;
+
+}
+.sybols1{
+    flex: 1;
+    margin-left: 96px;
+
+}
+.sybols2{
+    flex: 1;
+    cursor: pointer;
+    
+    padding-left: 330PX;
+}
+.ImageLast{
+    cursor: pointer;
+}
+.Credit{
+ border-top: 5px solid hsl(0, 0%, 95%);   
+padding-top: 40PX;
+    display: flex ;
+    flex-direction: row; 
+    padding-left: 25px;
+ 
+    
+
+}
+.CreditLine{
+    flex: 1;
+    text-align: center;
+   
+}
+.CreditImage{
+width: 30px;
+height: 30px;
+padding-top: 16px;
+padding-right: 10px;
+
+}
+.CreditLine1{
+    flex: 1;
+    text-align: right;
+}
+.Lasttt{
+    height: 150px;
+ padding-bottom: 10px;
+    width: 29%;
+    text-align: right;
+
+
+}
